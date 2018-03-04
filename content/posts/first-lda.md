@@ -1,9 +1,7 @@
 ---
 title =  "Rのldaの使い方"
 date = 2018-03-04T15:33:20+09:00
-tags = ["R"]
-featured_image = ""
-description = ""
+draft: true
 ---
 
 
